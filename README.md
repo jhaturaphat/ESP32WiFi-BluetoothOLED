@@ -1,4 +1,9 @@
 ﻿# TTGO ESP32 WiFi bluetooth 18650 Battery 0 96 inch OLED
+ <br>
+ OLED ต่างจากบอร์ด ESP32 อื่นๆ ที่มี OLED, พิน I2C SDA และ SCL ของ OLED เชื่อมต่อกันดังนี้ <br>
+ SCL - Pin 4 <br>
+ SDA - Pin 5 <br>
+ 
 
 <p align="center">
 
